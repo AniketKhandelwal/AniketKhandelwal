@@ -1,10 +1,17 @@
 # 💫 About Me:
+
 ## 🔭 I’m currently working on
-<br><br>Building Machine Learning & GenAI projects, including end-to-end ML pipelines, RAG-based Q&A systems, and Working as an ML intern, building clinical healthcare systems using Machine Learning and data-driven approaches, focusing on real-world problem solving and production-ready workflows.<br><br><br>
-## 👯 I’m looking to collaborate on<br><br>• Machine Learning & Data Science projects<br>• GenAI / LLM applications (RAG, chatbots, information retrieval)<br>• Open-source projects related to AI for social good or data-driven systems<br><br><br>
-## 🤝 I’m looking for help with<br><br>• Best practices for scalable ML & MLOps<br>• Code reviews and feedback on real-world ML projects<br><br><br>🌱 I’m currently learning<br><br>• Advanced Machine Learning & Feature Engineering<br>• Retrieval-Augmented Generation (RAG) architectures<br>• Model deployment, APIs, and production ML workflows<br><br><br>
-## 💬 Ask me about<br><br>• Machine Learning & Data Science fundamentals<br>• Python, Pandas, NumPy, Scikit-learn<br>• ML project structuring, EDA, and model building<br>• Getting started with GenAI & RAG systems<br><br><br>
-## ⚡ Fun fact<br><br>I enjoy turning messy real-world data into clean, deployable ML solutions — and I document everything like it’s a real product 😄
+Building Machine Learning & GenAI projects, including end-to-end ML pipelines, RAG-based Q&A systems, and Working as an ML intern, building clinical healthcare systems using Machine Learning and data-driven approaches, focusing on real-world problem solving and production-ready workflows.<br>
+## 👯 I’m looking to collaborate on
+• Machine Learning & Data Science projects<br>• GenAI / LLM applications (RAG, chatbots, information retrieval)<br>• Open-source projects related to AI for social good or data-driven systems<br>
+## 🤝 I’m looking for help with
+• Best practices for scalable ML & MLOps<br>• Code reviews and feedback on real-world ML projects<br>
+## 🌱 I’m currently learning
+• Advanced Machine Learning & Feature Engineering<br>• Retrieval-Augmented Generation (RAG) architectures<br>• Model deployment, APIs, and production ML workflows<br>
+## 💬 Ask me about
+• Machine Learning & Data Science fundamentals<br>• Python, Pandas, NumPy, Scikit-learn<br>• ML project structuring, EDA, and model building<br>• Getting started with GenAI & RAG systems<br>
+## ⚡ Fun fact
+I enjoy turning messy real-world data into clean, deployable ML solutions — and I document everything like it’s a real product 😄<br>
 
 
 ## 🌐 Socials:
